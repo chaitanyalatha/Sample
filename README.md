@@ -15,6 +15,9 @@ When the server failure occurs, they can recollect the code from their repo in t
 
 Workflow:-
 There are three stages in Git.
+
 Working directory - our copy in our machine.
+
 Staging area - working on changes of code before committing.
+
 Remote location - Git Repo.
