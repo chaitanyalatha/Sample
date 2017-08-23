@@ -13,11 +13,8 @@ Distributed Version control:-
 Developers will create repos in their machines and then they will push the branch to the Git/Remote repo.
 When the server failure occurs, they can recollect the code from their repo in their machines.
 
-Workflow:-
-There are three stages in Git.
+Workflow:- There are three stages in Git.
 
-Working directory - our copy in our machine.
-
-Staging area - working on changes of code before committing.
-
-Remote location - Git Repo.
+  Working directory - our copy in our machine.
+  Staging area - working on changes of code before committing.
+  Remote location - Git Repo.
